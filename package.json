@@ -1,0 +1,25 @@
+{
+  "name": "api-bke-express",
+  "version": "1.0.0",
+  "description": "API Node com Express para o Backend do 3 semestre IFSP",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedra1S/api-bke-express.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "zod",
+    "mvc"
+  ],
+  "author": "Pedro Simoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedra1S/api-bke-express/issues"
+  },
+  "homepage": "https://github.com/Pedra1S/api-bke-express#readme"
+}
